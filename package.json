@@ -12,5 +12,8 @@
     "rakshu"
   ],
   "author": "Rakshitha",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
 }
